@@ -1,14 +1,8 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import { useState } from 'react';
 
 function App() {
-    function teste() {
-        const teste = 0;
-        const aaa = [1, 2, 3];
-    }
-
     return (
         <div className="App">
             <header className="App-header">
